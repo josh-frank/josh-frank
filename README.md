@@ -5,7 +5,7 @@ I'm a web developer, graphic designer and media producer.
 I’m passionate about political strategy, probability games, creativity tools, attractive design, vector graphics, tinkering, head-scratching and problem-solving. My 5+ years experience in visual communication and project management has served individuals, Fortune 500 businesses and organizations of every size.
 
 ## Reach me: 
-#### email: moosedavis2011@gmail.com
+#### email: EurosewUSA@gmail.com
 
 ## Languages & Frameworks: 
 ![](https://img.shields.io/badge/Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
