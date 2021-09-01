@@ -1,11 +1,11 @@
 ## Hi there
 
-I'm a web developer, graphic designer and media producer.
+I'm a designer and producer who loves to code. I'm currently a junior web developer at [a brokerage & investment firm](https://www.gabelli.com/) in Westchester County, New York.
 
 I’m passionate about political strategy, probability games, creativity tools, attractive design, vector graphics, tinkering, head-scratching and problem-solving. My 5+ years experience in visual communication and project management has served individuals, Fortune 500 businesses and organizations of every size.
 
 ## Reach me: 
-#### email: EurosewUSA@gmail.com
+#### email: josh_frank@icloud.com
 
 ## Languages & Frameworks: 
 ![](https://img.shields.io/badge/Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&color=CC342D)
@@ -23,4 +23,3 @@ I’m passionate about political strategy, probability games, creativity tools, 
 ![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
-
