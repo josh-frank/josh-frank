@@ -1,7 +1,5 @@
 ## Hi there
 
-I'm a designer and producer who loves to code. I'm currently a rails developer at [an election research firm](https://www.decisiondeskhq.com/) in Washington, D.C.
-
 I’m passionate about political strategy, probability games, creativity tools, attractive design, vector graphics, tinkering, head-scratching and problem-solving. My 5+ years experience in visual communication and project management has served individuals, Fortune 500 businesses and organizations of every size.
 
 ## Reach me: 
